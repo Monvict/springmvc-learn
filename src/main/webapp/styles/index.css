@@ -1,0 +1,26 @@
+.off_x1{float:left;width:100%;height:22px;text-align:left;clear:left;cursor:pointer;margin-bottom: 5px;}
+.on_x1{float:left;width:100%;height:22px;text-align:left;clear:left;background-color:#B8E4B9;cursor:pointer;margin-bottom: 5px;}
+.a_x1_zi{padding-left:5px;padding-top:1px;}
+.right_warp_out1{margin-top:29px;border-left:1px solid #d3d3c9;border-right:1px solid #d3d3c9;border-bottom:1px solid #d3d3c9;width:98%;}
+
+.on_icon{
+	display:block;
+	float:left;
+	margin-left:10px;
+	width:18px;
+	height:18px;
+	cursor:pointer;
+	background-position: left bottom;
+}
+.off_icon{
+	display:block;
+	float:left;
+	margin-left:10px;
+	width:18px;
+	height:18px;
+	cursor:pointer;
+	background-position: left bottom;
+}
+
+.openDiv{width:100%;height:920px;margin:0;padding:0;}
+.textarea_customize{width:250px;height:60px;margin-top:1px;border:1px solid #b5b5b5;}
