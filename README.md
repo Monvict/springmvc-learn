@@ -3,3 +3,5 @@
 OK Let's begin now
 
 Hallo, nice to meet you
+
+What a beautiful day
